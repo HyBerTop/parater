@@ -1,0 +1,2 @@
+# parater
+Bevitel gyakorlása
